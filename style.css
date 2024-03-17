@@ -1,0 +1,50 @@
+body{
+    background-color:darkorange;
+}
+*{
+    color: darkblue;
+}
+.bglime{
+    background-color: rgb(74, 220, 58);
+}
+.head{
+    color: rgba(237, 22, 22, 0.868);
+}
+
+#para{
+    color: rgb(54, 79, 54);
+
+}
+
+
+.highlight{
+    color: black;
+    font-size: x-large;
+}
+   ul li:nth-child(1) a{
+    color:blue;
+    background-color: yellow;
+    
+}
+ ul li:nth-child(2) a{
+    color:white;
+background-color: blue;
+}
+ul li{
+    color: white;
+}
+ol li:first-child{
+    color: black;
+}
+ol li:nth-child(2){
+    color:blue;
+}
+ol li:nth-child(3){
+    color: red;
+}
+ol li:nth-child(4){
+    color:black;
+}
+ol li:nth-child(5){
+    color:black;
+}
